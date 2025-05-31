@@ -1,15 +1,34 @@
-Introduction to HTML
+# HTML Basics
 
-Tasks
+This folder contains beginner-level HTML practice files created as part of the ALX Front-End curriculum.
 
-0. Basic Structure
-    mandatory
-        Create the most basic, simple and valid HTML file called base_index.html
+## Files
 
-        The page should contain:
+- `base_index.html`  
+  The most basic HTML file with proper structure, including `<!DOCTYPE html>`, `<head>`, `<title>`, and `<body>`.
 
-            a DOCTYPE
-            a head:
-            with a title
-            a body
+- `index.html`  
+  Expanded version with:
+  - Headings (`<h1>`, `<h2>`, `<h3>`)
+  - Paragraphs
+  - A clickable image with a link
+  - Internal navigation using `<header>`, `<main>`, and `<footer>`
+  - A table with learner data
 
+- `tweets.html`  
+  Contains:
+  - An embedded tweet using Twitter’s official embed code
+  - Navigation links to and from the homepage (`index.html`)
+
+## Purpose
+
+These files demonstrate core HTML concepts including:
+- Page structure
+- Semantic elements
+- Links and navigation
+- Embedding content
+- Creating tables
+
+## Author
+
+Selamawit Yeruk
